@@ -1,0 +1,6 @@
+# AdMob authorised seller declaration for Daily Logic Grid Puzzles.
+# Google only reads this file at the ROOT of the domain named as the developer
+# website in the app store listing (https://<domain>/app-ads.txt). On GitHub
+# Pages at a subpath (https://<username>.github.io/dailylogicgrid/) it has no
+# effect; it takes effect once the site is served from a real domain root.
+google.com, pub-1465753291276487, DIRECT, f08c47fec0942fa0
